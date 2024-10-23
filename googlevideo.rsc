@@ -1,4 +1,6 @@
 /ip firewall address-list
+add list=GOOGLEVIDEO address=play.google.com
+add list=GOOGLEVIDEO address=qwe.googlevideo.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7snl7.googlevideo.com
 add list=GOOGLEVIDEO address=r12---sn-n8v7kn7k.googlevideo.com
@@ -44,6 +46,7 @@ add list=GOOGLEVIDEO address=r7---sn-n8v7zns6.googlevideo.com
 add list=GOOGLEVIDEO address=r7---sn-n8v7znss.googlevideo.com
 add list=GOOGLEVIDEO address=r7---sn-n8v7znze.googlevideo.com
 add list=GOOGLEVIDEO address=r8---sn-n8v7snl7.googlevideo.com
+add list=GOOGLEVIDEO address=r8---sn-n8v7zns6.googlevideo.com
 add list=GOOGLEVIDEO address=r8---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=r9---sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=r9---sn-n8v7znsz.googlevideo.com
@@ -145,6 +148,9 @@ add list=GOOGLEVIDEO address=rr8---sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7knes.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7znlr.googlevideo.com
+add list=GOOGLEVIDEO address=rr8---sn-n8v7zns6.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr9---sn-n8v7kn7l.googlevideo.com
+add list=GOOGLEVIDEO address=wide-youtube.l.google.com
 add list=GOOGLEVIDEO address=www.youtube.com
+add list=GOOGLEVIDEO address=youtube-ui.l.google.com

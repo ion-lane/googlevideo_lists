@@ -1,3 +1,5 @@
+play.google.com
+qwe.googlevideo.com
 r11---sn-n8v7kn7r.googlevideo.com
 r11---sn-n8v7snl7.googlevideo.com
 r12---sn-n8v7kn7k.googlevideo.com
@@ -43,6 +45,7 @@ r7---sn-n8v7zns6.googlevideo.com
 r7---sn-n8v7znss.googlevideo.com
 r7---sn-n8v7znze.googlevideo.com
 r8---sn-n8v7snl7.googlevideo.com
+r8---sn-n8v7zns6.googlevideo.com
 r8---sn-n8v7znsr.googlevideo.com
 r9---sn-n8v7kn7r.googlevideo.com
 r9---sn-n8v7znsz.googlevideo.com
@@ -144,6 +147,9 @@ rr8---sn-n8v7kn7r.googlevideo.com
 rr8---sn-n8v7knee.googlevideo.com
 rr8---sn-n8v7knes.googlevideo.com
 rr8---sn-n8v7znlr.googlevideo.com
+rr8---sn-n8v7zns6.googlevideo.com
 rr8---sn-n8v7znse.googlevideo.com
 rr9---sn-n8v7kn7l.googlevideo.com
+wide-youtube.l.google.com
 www.youtube.com
+youtube-ui.l.google.com
