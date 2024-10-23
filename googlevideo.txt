@@ -1,4 +1,5 @@
 play.google.com
+qwe.googlevideo.com
 r11---sn-n8v7kn7r.googlevideo.com
 r11---sn-n8v7snl7.googlevideo.com
 r12---sn-n8v7kn7k.googlevideo.com
@@ -151,4 +152,7 @@ rr8---sn-n8v7znse.googlevideo.com
 rr9---sn-n8v7kn7l.googlevideo.com
 wide-youtube.l.google.com
 www.youtube.com
+youtube.com
+youtubei.googleapis.com
 youtube-ui.l.google.com
+yt3.ggpht.com
