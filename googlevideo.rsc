@@ -1,4 +1,5 @@
 /ip firewall address-list
+add list=GOOGLEVIDEO address=i.ytimg.com
 add list=GOOGLEVIDEO address=play.google.com
 add list=GOOGLEVIDEO address=qwe.googlevideo.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7kn7r.googlevideo.com
