@@ -17,6 +17,7 @@ add list=GOOGLEVIDEO address=r14---sn-n8v7znze.googlevideo.com
 add list=GOOGLEVIDEO address=r15---sn-n8v7kn7e.googlevideo.com
 add list=GOOGLEVIDEO address=r15---sn-n8v7sney.googlevideo.com
 add list=GOOGLEVIDEO address=r16---sn-n8v7kne6.googlevideo.com
+add list=GOOGLEVIDEO address=r16---sn-n8v7knes.googlevideo.com
 add list=GOOGLEVIDEO address=r16---sn-n8v7znsl.googlevideo.com
 add list=GOOGLEVIDEO address=r17---sn-n8v7snl7.googlevideo.com
 add list=GOOGLEVIDEO address=r17---sn-n8v7znse.googlevideo.com
