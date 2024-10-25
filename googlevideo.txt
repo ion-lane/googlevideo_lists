@@ -1,4 +1,5 @@
 i.ytimg.com
+m.youtube.com
 play.google.com
 qwe.googlevideo.com
 r11---sn-n8v7kn7r.googlevideo.com
@@ -6,10 +7,12 @@ r11---sn-n8v7snl7.googlevideo.com
 r12---sn-n8v7kn7k.googlevideo.com
 r12---sn-n8v7sney.googlevideo.com
 r12---sn-n8v7znlr.googlevideo.com
+r12---sn-n8v7znzl.googlevideo.com
 r13---sn-n8v7kn7r.googlevideo.com
 r13---sn-n8v7kn7s.googlevideo.com
 r13---sn-n8v7znz7.googlevideo.com
 r14---sn-n8v7kn7e.googlevideo.com
+r14---sn-n8v7kn7l.googlevideo.com
 r14---sn-n8v7znly.googlevideo.com
 r14---sn-n8v7znz7.googlevideo.com
 r14---sn-n8v7znze.googlevideo.com
@@ -65,6 +68,7 @@ rr12---sn-n8v7snl7.googlevideo.com
 rr12---sn-n8v7znse.googlevideo.com
 rr12---sn-n8v7znsk.googlevideo.com
 rr12---sn-n8v7znz7.googlevideo.com
+rr12---sn-n8v7znzl.googlevideo.com
 rr13---sn-n8v7kn7e.googlevideo.com
 rr13---sn-n8v7knes.googlevideo.com
 rr13---sn-n8v7zns6.googlevideo.com
@@ -73,6 +77,7 @@ rr13---sn-n8v7znss.googlevideo.com
 rr13---sn-n8v7znz7.googlevideo.com
 rr14---sn-n8v7kn7d.googlevideo.com
 rr14---sn-n8v7kn7e.googlevideo.com
+rr14---sn-n8v7kn7l.googlevideo.com
 rr14---sn-n8v7kn7y.googlevideo.com
 rr14---sn-n8v7znsd.googlevideo.com
 rr14---sn-n8v7znsl.googlevideo.com
