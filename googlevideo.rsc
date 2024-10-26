@@ -41,6 +41,7 @@ add list=GOOGLEVIDEO address=r3---sn-4g5lznle.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-gvnuxaxjvh-00ne.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-gvnuxaxjvh-c9ne.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-gvnuxaxjvh-t3nl.googlevideo.com
+add list=GOOGLEVIDEO address=r3---sn-n8v7kn7y.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=r4---sn-gvnuxaxjvh-3i8l.googlevideo.com
 add list=GOOGLEVIDEO address=r4---sn-gvnuxaxjvh-t3nl.googlevideo.com
@@ -124,6 +125,7 @@ add list=GOOGLEVIDEO address=rr3---sn-gvnuxaxjvh-88vs.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-gvnuxaxjvh-88vz.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-gvnuxaxjvh-c356.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-n8v7kn7e.googlevideo.com
+add list=GOOGLEVIDEO address=rr3---sn-n8v7kn7y.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-n8v7kne6.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-n8v7knel.googlevideo.com
@@ -132,6 +134,7 @@ add list=GOOGLEVIDEO address=rr3---sn-n8v7znsk.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-5hneknee.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-gvnuxaxjvh-3i8l.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7kn7e.googlevideo.com
+add list=GOOGLEVIDEO address=rr4---sn-n8v7kn7l.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7kn7z.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7kne7.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7snl7.googlevideo.com
