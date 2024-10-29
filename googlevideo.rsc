@@ -34,6 +34,7 @@ add list=GOOGLEVIDEO address=r1---sn-gvnuxaxjvh-bqme.googlevideo.com
 add list=GOOGLEVIDEO address=r1---sn-gvnuxaxjvh-c9ne.googlevideo.com
 add list=GOOGLEVIDEO address=r1---sn-gvnuxaxjvh-t3nl.googlevideo.com
 add list=GOOGLEVIDEO address=r1---sn-n8v7znze.googlevideo.com
+add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-00ne.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-bqme.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-c9ne.googlevideo.com
