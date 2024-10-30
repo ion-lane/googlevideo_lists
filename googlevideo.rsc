@@ -21,6 +21,7 @@ add list=GOOGLEVIDEO address=r15---sn-n8v7kn7e.googlevideo.com
 add list=GOOGLEVIDEO address=r15---sn-n8v7sney.googlevideo.com
 add list=GOOGLEVIDEO address=r16---sn-n8v7kne6.googlevideo.com
 add list=GOOGLEVIDEO address=r16---sn-n8v7knes.googlevideo.com
+add list=GOOGLEVIDEO address=r16---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=r16---sn-n8v7znsl.googlevideo.com
 add list=GOOGLEVIDEO address=r17---sn-n8v7snl7.googlevideo.com
 add list=GOOGLEVIDEO address=r17---sn-n8v7zns6.googlevideo.com
@@ -101,6 +102,7 @@ add list=GOOGLEVIDEO address=rr15---sn-n8v7znzl.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7kn7z.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7kne6.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7knes.googlevideo.com
+add list=GOOGLEVIDEO address=rr16---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7znsy.googlevideo.com
 add list=GOOGLEVIDEO address=rr17---sn-n8v7kn7e.googlevideo.com
