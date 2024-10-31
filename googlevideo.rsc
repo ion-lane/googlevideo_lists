@@ -74,6 +74,7 @@ add list=GOOGLEVIDEO address=rr11---sn-n8v7znss.googlevideo.com
 add list=GOOGLEVIDEO address=rr11---sn-n8v7znzl.googlevideo.com
 add list=GOOGLEVIDEO address=rr12---sn-n8v7kn7e.googlevideo.com
 add list=GOOGLEVIDEO address=rr12---sn-n8v7kn7r.googlevideo.com
+add list=GOOGLEVIDEO address=rr12---sn-n8v7kne6.googlevideo.com
 add list=GOOGLEVIDEO address=rr12---sn-n8v7knel.googlevideo.com
 add list=GOOGLEVIDEO address=rr12---sn-n8v7knes.googlevideo.com
 add list=GOOGLEVIDEO address=rr12---sn-n8v7snl7.googlevideo.com
