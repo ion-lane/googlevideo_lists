@@ -1,5 +1,6 @@
 /ip firewall address-list
 add list=GOOGLEVIDEO address=i.ytimg.com
+add list=GOOGLEVIDEO address=manifest.googlevideo.com
 add list=GOOGLEVIDEO address=m.youtube.com
 add list=GOOGLEVIDEO address=play.google.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7kn7r.googlevideo.com
@@ -103,6 +104,7 @@ add list=GOOGLEVIDEO address=rr15---sn-n8v7kn7e.googlevideo.com
 add list=GOOGLEVIDEO address=rr15---sn-n8v7kn7k.googlevideo.com
 add list=GOOGLEVIDEO address=rr15---sn-n8v7kn7s.googlevideo.com
 add list=GOOGLEVIDEO address=rr15---sn-n8v7knez.googlevideo.com
+add list=GOOGLEVIDEO address=rr15---sn-n8v7znze.googlevideo.com
 add list=GOOGLEVIDEO address=rr15---sn-n8v7znzl.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7kn7z.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7kne6.googlevideo.com
