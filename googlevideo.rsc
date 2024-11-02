@@ -119,6 +119,7 @@ add list=GOOGLEVIDEO address=rr16---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=rr16---sn-n8v7znsy.googlevideo.com
 add list=GOOGLEVIDEO address=rr17---sn-n8v7kn7e.googlevideo.com
 add list=GOOGLEVIDEO address=rr17---sn-n8v7kn7y.googlevideo.com
+add list=GOOGLEVIDEO address=rr17---sn-n8v7znlk.googlevideo.com
 add list=GOOGLEVIDEO address=rr17---sn-n8v7zns6.googlevideo.com
 add list=GOOGLEVIDEO address=rr17---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7kn7z.googlevideo.com
@@ -131,6 +132,7 @@ add list=GOOGLEVIDEO address=rr1---sn-gvnuxaxjvh-88vz.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7kn7d.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7kne6.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7knee.googlevideo.com
+add list=GOOGLEVIDEO address=rr1---sn-n8v7knel.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7znlk.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-4g5e6nzl.googlevideo.com
@@ -166,6 +168,7 @@ add list=GOOGLEVIDEO address=rr4---sn-n8v7kn7l.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7kn7z.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7kne7.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7snl7.googlevideo.com
+add list=GOOGLEVIDEO address=rr4---sn-n8v7znly.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr4---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=rr5---sn-5hnednss.googlevideo.com
@@ -185,6 +188,7 @@ add list=GOOGLEVIDEO address=rr6---sn-n8v7znsz.googlevideo.com
 add list=GOOGLEVIDEO address=rr6---sn-n8v7znze.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7kn7k.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7kn7z.googlevideo.com
+add list=GOOGLEVIDEO address=rr7---sn-n8v7znlr.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znsd.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znsk.googlevideo.com
