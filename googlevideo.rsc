@@ -195,6 +195,7 @@ add list=GOOGLEVIDEO address=rr7---sn-n8v7znse.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znsk.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znz7.googlevideo.com
 add list=GOOGLEVIDEO address=rr7---sn-n8v7znze.googlevideo.com
+add list=GOOGLEVIDEO address=rr8---sn-n8v7kn7k.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr8---sn-n8v7knes.googlevideo.com
