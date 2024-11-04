@@ -1,5 +1,7 @@
 /ip firewall address-list
 add list=GOOGLEVIDEO address=manifest.googlevideo.com
+add list=GOOGLEVIDEO address=r10---sn-n8v7znsl.googlevideo.com
+add list=GOOGLEVIDEO address=r11.sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7kn7r.googlevideo.com
 add list=GOOGLEVIDEO address=r11---sn-n8v7snl7.googlevideo.com
 add list=GOOGLEVIDEO address=r12---sn-n8v7kn7k.googlevideo.com
@@ -40,6 +42,7 @@ add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-bqme.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-c9ne.googlevideo.com
 add list=GOOGLEVIDEO address=r2---sn-gvnuxaxjvh-t3nl.googlevideo.com
+add list=GOOGLEVIDEO address=r2---sn-n8v7kne7.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-4g5lznle.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-gvnuxaxjvh-00ne.googlevideo.com
 add list=GOOGLEVIDEO address=r3---sn-gvnuxaxjvh-c9ne.googlevideo.com
@@ -50,6 +53,7 @@ add list=GOOGLEVIDEO address=r3---sn-n8v7znlr.googlevideo.com
 add list=GOOGLEVIDEO address=r4---sn-gvnuxaxjvh-3i8l.googlevideo.com
 add list=GOOGLEVIDEO address=r4---sn-gvnuxaxjvh-t3nl.googlevideo.com
 add list=GOOGLEVIDEO address=r4---sn-n8v7kn7l.googlevideo.com
+add list=GOOGLEVIDEO address=r4---sn-n8v7kn7s.googlevideo.com
 add list=GOOGLEVIDEO address=r5---sn-5hneknek.googlevideo.com
 add list=GOOGLEVIDEO address=r5---sn-n8v7snl7.googlevideo.com
 add list=GOOGLEVIDEO address=r7---sn-n8v7knel.googlevideo.com
@@ -125,7 +129,6 @@ add list=GOOGLEVIDEO address=rr18---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7zns6.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-4g5lznl6.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-5hne6n6l.googlevideo.com
-add list=GOOGLEVIDEO address=rr1.sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-gvnuxaxjvh-88vs.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-gvnuxaxjvh-88vz.googlevideo.com
@@ -135,17 +138,19 @@ add list=GOOGLEVIDEO address=rr1---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7knel.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7znlk.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-n8v7znsr.googlevideo.com
+add list=GOOGLEVIDEO address=rr2---sn-2vqgt5q-88vl.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-4g5e6nzl.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-5hne6nsz.googlevideo.com
-add list=GOOGLEVIDEO address=rr2.sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-gvnuxaxjvh-23je.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-gvnuxaxjvh-3i8l.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-gvnuxaxjvh-88vs.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-gvnuxaxjvh-88vz.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-n8v7kn7z.googlevideo.com
+add list=GOOGLEVIDEO address=rr2---sn-n8v7kne7.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-n8v7znly.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-n8v7znsr.googlevideo.com
 add list=GOOGLEVIDEO address=rr2---sn-n8v7znsz.googlevideo.com
+add list=GOOGLEVIDEO address=rr3---sn-2vqgt5q-88vl.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-4g5ednsy.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-4g5lznle.googlevideo.com
 add list=GOOGLEVIDEO address=rr3---sn-5hne6n6e.googlevideo.com
