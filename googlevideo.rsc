@@ -140,6 +140,7 @@ add list=GOOGLEVIDEO address=rr18---sn-n8v7kn7z.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7knee.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7znlk.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7zns6.googlevideo.com
+add list=GOOGLEVIDEO address=rr18.sn-n8v7znsz.googlevideo.com
 add list=GOOGLEVIDEO address=rr18---sn-n8v7znsz.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-4g5lznl6.googlevideo.com
 add list=GOOGLEVIDEO address=rr1---sn-5hne6n6l.googlevideo.com
