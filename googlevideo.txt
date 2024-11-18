@@ -117,6 +117,7 @@ rr14---sn-n8v7znz7.googlevideo.com
 rr14---sn-n8v7znze.googlevideo.com
 rr15---sn-n8v7kn7e.googlevideo.com
 rr15---sn-n8v7kn7k.googlevideo.com
+rr15---sn-n8v7kn7r.googlevideo.com
 rr15---sn-n8v7kn7s.googlevideo.com
 rr15---sn-n8v7knez.googlevideo.com
 rr15---sn-n8v7znze.googlevideo.com
@@ -186,6 +187,7 @@ rr4---sn-n8v7kn7l.googlevideo.com
 rr4---sn-n8v7kn7z.googlevideo.com
 rr4---sn-n8v7kne7.googlevideo.com
 rr4---sn-n8v7snl7.googlevideo.com
+rr4---sn-n8v7znlk.googlevideo.com
 rr4---sn-n8v7znly.googlevideo.com
 rr4---sn-n8v7znse.googlevideo.com
 rr4---sn-n8v7znsr.googlevideo.com
