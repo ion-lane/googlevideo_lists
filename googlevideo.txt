@@ -62,6 +62,7 @@ r5---sn-5hneknek.googlevideo.com
 r5---sn-n8v7snl7.googlevideo.com
 r7---sn-n8v7knel.googlevideo.com
 r7---sn-n8v7zns6.googlevideo.com
+r7---sn-n8v7znsd.googlevideo.com
 r7---sn-n8v7znss.googlevideo.com
 r7---sn-n8v7znz7.googlevideo.com
 r7---sn-n8v7znze.googlevideo.com
