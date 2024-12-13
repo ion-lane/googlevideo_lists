@@ -79,6 +79,7 @@ r9---sn-n8v7znsz.googlevideo.com
 redirector.googlevideo.com
 rr10---sn-n8v7kn7r.googlevideo.com
 rr10---sn-n8v7knez.googlevideo.com
+rr10---sn-n8v7sney.googlevideo.com
 rr10---sn-n8v7znsy.googlevideo.com
 rr10---sn-n8v7znsz.googlevideo.com
 rr11---sn-n8v7kn7r.googlevideo.com
