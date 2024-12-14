@@ -1,4 +1,3 @@
-# 2024-11-05 00:32:28 by RouterOS 7.16
 /ip firewall address-list
 add address=i.ytimg.com disabled=no dynamic=no list=GGC
 add address=manifest.googlevideo.com disabled=no dynamic=no list=GGC
@@ -24,6 +23,7 @@ add address=79.133.77.0/24 disabled=no dynamic=no list=GGC
 add address=92.50.230.0/24 disabled=no dynamic=no list=GGC
 add address=87.226.176.0/24 disabled=no dynamic=no list=GGC
 add address=172.217.132.0/24 disabled=no dynamic=no list=GGC
+add address=173.194.2.92/32 disabled=no dynamic=no list=GGC
 add address=173.194.151.0/24 disabled=no dynamic=no list=GGC
 add address=173.194.163.0/24 disabled=no dynamic=no list=GGC
 add address=173.194.176.0/22 disabled=no dynamic=no list=GGC
