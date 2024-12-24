@@ -15,7 +15,7 @@ add address=74.125.8.0/24 disabled=no dynamic=no list=GGC
 add address=74.125.11.0/24 disabled=no dynamic=no list=GGC
 add address=74.125.100.0/23 disabled=no dynamic=no list=GGC
 add address=74.125.153.0/24 disabled=no dynamic=no list=GGC
-add address=74.125.163.0/24 disabled=no dynamic=no list=GGC
+add address=74.125.162.0/23 disabled=no dynamic=no list=GGC
 add address=74.125.173.0/24 disabled=no dynamic=no list=GGC
 add address=77.37.252.0/24 disabled=no dynamic=no list=GGC
 add address=77.82.149.0/24 disabled=no dynamic=no list=GGC
