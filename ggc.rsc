@@ -23,12 +23,7 @@ add address=79.133.77.0/24 disabled=no dynamic=no list=GGC
 add address=92.50.230.0/24 disabled=no dynamic=no list=GGC
 add address=87.226.176.0/24 disabled=no dynamic=no list=GGC
 add address=172.217.132.0/24 disabled=no dynamic=no list=GGC
-add address=173.194.2.92/32 disabled=no dynamic=no list=GGC
-add address=173.194.151.0/24 disabled=no dynamic=no list=GGC
-add address=173.194.163.0/24 disabled=no dynamic=no list=GGC
-add address=173.194.176.0/22 disabled=no dynamic=no list=GGC
-add address=173.194.180.0/23 disabled=no dynamic=no list=GGC
-add address=173.194.182.0/24 disabled=no dynamic=no list=GGC
+add address=173.194.0.0/16 disabled=no dynamic=no list=GGC
 add address=188.254.87.0/24 disabled=no dynamic=no list=GGC
 add address=195.72.240.0/24 disabled=no dynamic=no list=GGC
 add address=209.85.226.0/24 disabled=no dynamic=no list=GGC
