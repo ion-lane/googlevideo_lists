@@ -9,6 +9,7 @@ r11---sn-n8v7snl7.googlevideo.com
 r12---sn-n8v7kn7k.googlevideo.com
 r12---sn-n8v7sney.googlevideo.com
 r12---sn-n8v7znlr.googlevideo.com
+r12---sn-n8v7zns7.googlevideo.com
 r12---sn-n8v7znsk.googlevideo.com
 r12---sn-n8v7znzl.googlevideo.com
 r13---sn-n8v7kn7l.googlevideo.com
