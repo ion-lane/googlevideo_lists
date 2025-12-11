@@ -131,6 +131,7 @@ rr10---sn-n8v7znsy.googlevideo.com
 rr10---sn-n8v7znsz.googlevideo.com
 rr10---sn-n8v7znz7.googlevideo.com
 rr10---sn-n8v7znze.googlevideo.com
+rr11---sn-n8v7kn76.googlevideo.com
 rr11---sn-n8v7kn7e.googlevideo.com
 rr11---sn-n8v7kn7l.googlevideo.com
 rr11---sn-n8v7kn7r.googlevideo.com
@@ -534,6 +535,7 @@ rr5---sn-4g5lznl7.googlevideo.com
 rr5---sn-4g5lznlz.googlevideo.com
 rr5---sn-5hne6n6e.googlevideo.com
 rr5---sn-5hne6n6l.googlevideo.com
+rr5---sn-5hne6nsk.googlevideo.com
 rr5---sn-5hne6nz6.googlevideo.com
 rr5---sn-5hne6nzk.googlevideo.com
 rr5---sn-5hne6nzs.googlevideo.com
