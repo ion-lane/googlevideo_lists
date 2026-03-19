@@ -1,5 +1,6 @@
 manifest.googlevideo.com
 r10---sn-n8v7kn7d.googlevideo.com
+r10---sn-n8v7kne6.googlevideo.com
 r10---sn-n8v7znsl.googlevideo.com
 r10---sn-n8v7znz7.googlevideo.com
 r11---sn-n8v7kn7r.googlevideo.com
@@ -77,6 +78,7 @@ r2---sn-n8v7znsk.googlevideo.com
 r2---sn-oj5hn5-5v.googlevideo.com
 r2---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 r3---sn-4g5lznle.googlevideo.com
+r3---sn-5goeen7y.googlevideo.com
 r3---sn-gvnuxaxjvh-00ne.googlevideo.com
 r3---sn-gvnuxaxjvh-3i8l.googlevideo.com
 r3---sn-gvnuxaxjvh-88vl.googlevideo.com
@@ -87,6 +89,7 @@ r3---sn-n8v7knee.googlevideo.com
 r3---sn-n8v7sney.googlevideo.com
 r3---sn-n8v7znlr.googlevideo.com
 r3---sn-n8v7zns6.googlevideo.com
+r4---sn-5go7ynl6.googlevideo.com
 r4---sn-gvnuxaxjvh-3i8l.googlevideo.com
 r4---sn-gvnuxaxjvh-t3nl.googlevideo.com
 r4---sn-n8v7kn76.googlevideo.com
