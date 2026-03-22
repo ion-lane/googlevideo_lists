@@ -76,6 +76,7 @@ r2---sn-gvnuxaxjvh-t3nl.googlevideo.com
 r2---sn-n8v7kne7.googlevideo.com
 r2---sn-n8v7znsk.googlevideo.com
 r2---sn-oj5hn5-5v.googlevideo.com
+r2---sn-tn.googlevideo.com
 r2---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 r3---sn-4g5lznle.googlevideo.com
 r3---sn-5goeen7y.googlevideo.com
@@ -175,6 +176,7 @@ rr12---sn-n8v7kn7k.googlevideo.com
 rr12---sn-n8v7kn7l.googlevideo.com
 rr12---sn-n8v7kn7r.googlevideo.com
 rr12---sn-n8v7kn7s.googlevideo.com
+rr12---sn-n8v7kn7y.googlevideo.com
 rr12---sn-n8v7kn7z.googlevideo.com
 rr12---sn-n8v7kne6.googlevideo.com
 rr12---sn-n8v7kne7.googlevideo.com

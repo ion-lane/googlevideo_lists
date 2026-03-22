@@ -1,4 +1,5 @@
 /ip firewall address-list
+add address=yt3.googleusercontent.com disabled=no dynamic=no list=GGC
 add address=i.ytimg.com disabled=no dynamic=no list=GGC
 add address=manifest.googlevideo.com disabled=no dynamic=no list=GGC
 add address=m.youtube.com disabled=no dynamic=no list=GGC
