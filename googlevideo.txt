@@ -64,6 +64,7 @@ r1---sn-n8v7kn7z.googlevideo.com
 r1---sn-n8v7kne6.googlevideo.com
 r1---sn-n8v7znsr.googlevideo.com
 r1---sn-n8v7znze.googlevideo.com
+r1---sn-tn.googlevideo.com
 r1---sn-ug5onuxaxjvh-n8v6.googlevideo.com
 r1---sn-ug5onuxaxjvh-n8vs.googlevideo.com
 r2---sn-4g5e6nsr.googlevideo.com
