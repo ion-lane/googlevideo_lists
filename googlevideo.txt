@@ -502,6 +502,7 @@ rr3---sn-gvnuxaxjvh-88vs.googlevideo.com
 rr3.sn-gvnuxaxjvh-88vz.googlevideo.com
 rr3---sn-gvnuxaxjvh-88vz.googlevideo.com
 rr3---sn-gvnuxaxjvh-c356.googlevideo.com
+rr3---sn-hgn7rnls.googlevideo.com
 rr3---sn-n8v7kn76.googlevideo.com
 rr3---sn-n8v7kn7d.googlevideo.com
 rr3---sn-n8v7kn7e.googlevideo.com
@@ -639,6 +640,7 @@ rr5---sn-n8v7znsy.googlevideo.com
 rr5---sn-n8v7znz7.googlevideo.com
 rr5---sn-n8v7znze.googlevideo.com
 rr5---sn-oj5hn5-55.googlevideo.com
+rr5---sn-q4fl6ndz.googlevideo.com
 rr6---sn-n8v7kn7d.googlevideo.com
 rr6---sn-n8v7kn7k.googlevideo.com
 rr6---sn-n8v7kn7l.googlevideo.com
