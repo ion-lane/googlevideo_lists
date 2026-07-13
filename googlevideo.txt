@@ -88,6 +88,7 @@ r2---sn-n8v7znsk.googlevideo.com
 r2---sn-oj5hn5-5v.googlevideo.com
 r2---sn-tn.googlevideo.com
 r2---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+r3---sn-4g5ednkr.googlevideo.com
 r3---sn-4g5lznle.googlevideo.com
 r3---sn-5goeen7y.googlevideo.com
 r3---sn-5goeenes.googlevideo.com
@@ -102,6 +103,7 @@ r3---sn-n8v7sney.googlevideo.com
 r3---sn-n8v7znlr.googlevideo.com
 r3---sn-n8v7zns6.googlevideo.com
 r4---sn-5go7ynl6.googlevideo.com
+r4---sn-aj4g55-5t.googlevideo.com
 r4---sn-gvnuxaxjvh-3i8l.googlevideo.com
 r4---sn-gvnuxaxjvh-t3nl.googlevideo.com
 r4---sn-n8v7kn76.googlevideo.com
@@ -111,6 +113,7 @@ r4---sn-n8v7snl7.googlevideo.com
 r4---sn-n8v7zns7.googlevideo.com
 r4---sn-n8v7znsy.googlevideo.com
 r5---sn-4g5lzney.googlevideo.com
+r5---sn-5go7yner.googlevideo.com
 r5---sn-5go7ynl6.googlevideo.com
 r5---sn-5go7ynlk.googlevideo.com
 r5---sn-5goeenez.googlevideo.com
@@ -436,6 +439,7 @@ rr2---sn-4g5edns6.googlevideo.com
 rr2---sn-4g5edns7.googlevideo.com
 rr2---sn-4g5lznle.googlevideo.com
 rr2---sn-4g5lznls.googlevideo.com
+rr2---sn-5goeenez.googlevideo.com
 rr2---sn-5hne6n6l.googlevideo.com
 rr2---sn-5hne6nsd.googlevideo.com
 rr2---sn-5hne6nsk.googlevideo.com
@@ -502,6 +506,7 @@ rr3---sn-4g5lzner.googlevideo.com
 rr3---sn-4g5lzney.googlevideo.com
 rr3---sn-4g5lznl7.googlevideo.com
 rr3---sn-4g5lznle.googlevideo.com
+rr3---sn-5goeenes.googlevideo.com
 rr3---sn-5hne6n6e.googlevideo.com
 rr3---sn-5hne6n6l.googlevideo.com
 rr3---sn-5hne6ns6.googlevideo.com
@@ -568,6 +573,7 @@ rr4---sn-4g5lzne6.googlevideo.com
 rr4---sn-4g5lznek.googlevideo.com
 rr4---sn-4g5lzney.googlevideo.com
 rr4---sn-4g5lznez.googlevideo.com
+rr4---sn-5goeenes.googlevideo.com
 rr4---sn-5goeenez.googlevideo.com
 rr4---sn-5hne6n6e.googlevideo.com
 rr4---sn-5hne6n6l.googlevideo.com
@@ -625,6 +631,7 @@ rr5---sn-4g5lzned.googlevideo.com
 rr5---sn-4g5lzney.googlevideo.com
 rr5---sn-4g5lznl7.googlevideo.com
 rr5---sn-4g5lznlz.googlevideo.com
+rr5---sn-5go7yner.googlevideo.com
 rr5---sn-5go7ynlk.googlevideo.com
 rr5---sn-5hne6n6e.googlevideo.com
 rr5---sn-5hne6n6l.googlevideo.com
