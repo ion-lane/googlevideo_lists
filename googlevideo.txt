@@ -521,6 +521,7 @@ rr2---sn-4g5edns7.googlevideo.com
 rr2---sn-4g5ednsd.googlevideo.com
 rr2---sn-4g5ednsl.googlevideo.com
 rr2---sn-4g5lznle.googlevideo.com
+rr2---sn-4g5lznlk.googlevideo.com
 rr2---sn-4g5lznls.googlevideo.com
 rr2---sn-4g5lznlz.googlevideo.com
 rr2---sn-4g5lznss.googlevideo.com
@@ -732,6 +733,7 @@ rr4---sn-5hneknee.googlevideo.com
 rr4---sn-5hneknek.googlevideo.com
 rr4---sn-5hneknes.googlevideo.com
 rr4---sn-aj4g55-52.googlevideo.com
+rr4---sn-aj4g55-5o.googlevideo.com
 rr4---sn-aj4g55-5v.googlevideo.com
 rr4---sn-aj5go5-53.googlevideo.com
 rr4---sn-aj5go5-5i.googlevideo.com
